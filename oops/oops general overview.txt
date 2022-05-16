@@ -10,3 +10,9 @@
 //2.abstraction--hide details that does not matter
 //3.inheritance-- common properties can be accessed from  one class can be accessed from another class
 //4.encapsulation--- to keep some methods and some functionality  private to a class,external code cannot access it
+
+
+
+
+
+javascript does not have traditional classes like in traditional oops instead it has objects
