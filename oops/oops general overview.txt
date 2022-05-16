@@ -1,0 +1,12 @@
+//objects are blocks
+//traditional oops has
+//class -- a class is a blueprint form which we can actually create objects
+//class is how our object will work
+//when we create an object of a class it is called as an instance of that class
+//when can create multiple instance of a class and can have different data but the common thing is that they have the same functionality
+
+//4 fundamentals of class creation
+//1.polymorphism---child class can override a method that it inherited from parent class
+//2.abstraction--hide details that does not matter
+//3.inheritance-- common properties can be accessed from  one class can be accessed from another class
+//4.encapsulation--- to keep some methods and some functionality  private to a class,external code cannot access it
